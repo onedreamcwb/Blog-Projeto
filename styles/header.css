@@ -1,0 +1,33 @@
+header {
+    height: 50px;
+    padding: 10px 0;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0); /* Define o cabeçalho como transparente */      
+}
+.logo_img {
+    width: 300px;
+    padding-left: 10px;
+}
+nav ul li a {
+    font-family: 'Tilt Neon', sans-serif;
+    font-size: 18px;
+    list-style: none;
+    
+}
+ul {
+    color: #fff;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 110px; /* Espaço entre os itens do menu */
+    
+}
+a {
+    color: #fff;
+    
+}
+  
