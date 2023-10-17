@@ -1,0 +1,45 @@
+/* Reset padrão do navegador */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 elementos */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+/* Listas sem estilo */
+ul, ol {
+    list-style: none;
+}
+
+/* Hiperlinks sem sublinhado */
+a {
+    text-decoration: none;
+}
+
+/* Definir estilos de link padrão */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Definir estilo padrão para elementos de cabeçalho */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+/* Tabelas sem espaçamento extra */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Definir estilo padrão para o elemento body */
+body {
+    line-height: 1;
+}
